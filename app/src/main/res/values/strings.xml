@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SAKLOLO!</string>
+    <string name="map">Map</string>
+    <string name="profile">Profile</string>
+    <string name="phone">Hotline Finder</string>
+    <string name="emergency">Emergency Alarm</string>
+    <string name="next">Next</string>
+</resources>
